@@ -1,5 +1,7 @@
 git remote add origin https://github.com/likelei/test.git
 git push -u origin master
 
+# git hub直接修改
+
 # second
 git push origin master
