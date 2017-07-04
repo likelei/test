@@ -1,0 +1,6 @@
+# 创建branch命令、切换工作空间分支
+git branch dev
+git checkout dev
+
+#创建分支并切换
+git checkout -b dev
