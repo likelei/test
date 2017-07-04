@@ -5,3 +5,5 @@ git push -u origin master
 
 # second
 git push origin master
+
+git push
